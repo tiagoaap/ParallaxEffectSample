@@ -42,7 +42,6 @@ class ParallaxEffectViewController: UIViewController {
         collectionView.dataSource = self
         collectionView.register(DummyAppCollectionViewCell.self, forCellWithReuseIdentifier: reuseIdentifier)
         
-        // DOUBLE TAP
         tapGesture.addTarget(self, action: #selector(ParallaxEffectViewController.hideOrShowIcons))
         touchableView.isUserInteractionEnabled = true
         touchableView.addGestureRecognizer(tapGesture)
