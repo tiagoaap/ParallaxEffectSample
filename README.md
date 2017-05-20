@@ -4,4 +4,4 @@ This is a simple example how to create a Parallax Effect using MotionEffect in S
 
 Fell free to use it in your personal projects 👍
 
-![ParallaxEffect](https://github.com/tiagoaap/ParallaxEffectView/Documents/sample.gif)
+![ParallaxEffect](https://github.com/tiagoaap/ParallaxEffectView/blob/master/Documents/sample.gif)
